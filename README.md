@@ -4,7 +4,7 @@ Blood Donation Bank JAVA Project for [Bangladesh Army University of Engineering 
 ## Developing Tools: 
 
 * JAVA
-* Eclips IDE
+* Eclipse IDE
 * SQLite -- Database
 * Sublime Text -- Text Editor
 
